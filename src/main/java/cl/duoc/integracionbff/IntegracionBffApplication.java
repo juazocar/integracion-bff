@@ -12,5 +12,6 @@ public class IntegracionBffApplication {
 		SpringApplication.run(IntegracionBffApplication.class, args);
 	}
 
+
 	
 }
